@@ -1,5 +1,5 @@
 # About Me
-### My name is AqFad, and I'm curently using github for these projects :
+### My name is AqFad, and I'm currently using github for these projects :
 
 
 
