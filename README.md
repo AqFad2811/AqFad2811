@@ -7,8 +7,6 @@
 
 - myiptv (https://github.com/AqFad2811/myiptv)
   -  A repository that I currently used for EPG's, formerly had a popular playlist here, but I moved it to keep it safe.
-- videos (https://github.com/AqFad2811/videos)
-  - A repository for m3u video for my playlist.
 - BernamaHDYT (https://github.com/AqFad2811/BernamaHDYT)
    -  Forked repository from [@benmoose39](https://github.com/benmoose39), using Bernama TV live stream and put it on my playlist.
 - fatwatvyt (https://github.com/AqFad2811/fatwatvyt)
