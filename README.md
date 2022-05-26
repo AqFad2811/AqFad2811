@@ -5,7 +5,7 @@
 
 
 
-- myiptv (https://github.com/AqFad2811/myiptv)
+- EPG (https://github.com/AqFad2811/epg)
   -  A repository that I currently used for EPG's, formerly had a popular playlist here, but I moved it to keep it safe.
 - BernamaHDYT (https://github.com/AqFad2811/BernamaHDYT)
    -  Forked repository from [@benmoose39](https://github.com/benmoose39), using Bernama TV live stream and put it on my playlist.
