@@ -4285,6 +4285,1642 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feefa166d048943f76
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3vjQhjROixdAKxHl6JPd8w","kid":"KipHA2hVLMD1vqAn/J1Lrw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64904b73d940521074d6a2d5_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/024997X0-portrait.jpg",Buzz 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XOCeoERdP+FLApoXxx+SBw","kid":"xD6gISzYWvipip1R7XHKtw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f96c4d36d048943f7673fb3_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023778X0-portrait.jpg",Downton Abbey 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TBnXdsPKnfd6CBYSbRNmnQ","kid":"MPsgTsaRXH2k06YYeXxuRg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63d25b9ad940521074c4cd82_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029390X0-portrait.jpg",Moonlight Sonata: Deafness In Three Movements 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ki8DAKhlqBZYPMuIrRefJA","kid":"YfeiAYO0X+ORiNh+Z5pIUA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6042146d6d048943f7770994_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028541X0-portrait.jpg",What Happened On September 11 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"98FBX+Avv9uze1fbXVOiYQ","kid":"f65XWdpfWcSS3QwtYjK4PA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc081e06d048943f76b1a85_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028758X0-portrait.jpg",In The Shadow Of The Towers: Stuyvesant High On 9/11 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yUuXE3tB5I8IpmgaAskg7w","kid":"KfRLr86DVkyd+CGRhjixSg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fcf6bc46d048943f76c78c4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023572X0-portrait.jpg",Bad Education 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"27SvghLyDYWUVmcG0uIIow","kid":"SLL7vIviVFGxINPY14jtvQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e9d186f6d048943f74fbb63_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023714X0-portrait.jpg",It Chapter Two 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0VbHQDZQKPaiquzvn4SpDg","kid":"RFejpojKWyiUKQ8U6rIIuw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036062X0-portrait.jpg",Scooby-Doo!: Return To Zombie Island 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gvo1vE6Uiz4ia1JSXjwX1g","kid":"5vnR6n3HTF2YOdLmGtmqhA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61f281f2d94052107497ad57_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026734X0-portrait.jpg",Steven Universe: The Movie 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4+45oKs+yzV8jFFJ8GWv/A","kid":"kQsd1oLbWBKApdYDnEJERA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f83d9306d048943f7658322_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026801X0-portrait.jpg",Alternate Endings: Six New Ways To Die In America 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PcyaNNteQ5fhR7+3174otg","kid":"XGchJPd4UiGLVfhMmZhV1Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f7b0eff6d048943f764b28b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/024996X0-portrait.jpg",My Favorite Shapes By Julio Torres 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QtHwr0iPYDasK6jvMYY4pQ","kid":"UVewrurRUJOFWIHfjVGokQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f76dc446d048943f7644f3b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023508X0-portrait.jpg",Fast & Furious: Hobbs & Shaw 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6tHFL3RZk7w8iAKtfemdZA","kid":"a5tWvX+KUaSjf0UM8zNBUg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023991X0-portrait.jpg",Who Killed Garrett Phillips? Part 1 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3fzbXKnJMwGKmNqqwrbxzg","kid":"5MzCp2HcUFmenQ0MU5zNNA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f71d56d048943f760adef_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023992X0-portrait.jpg",Who Killed Garrett Phillips? Part 2 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"q0c631wwLDsbbrTGjdV+6Q","kid":"dwzsP1w8WY2UXtuhgD/ugg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f8af06d048943f760b042_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023619X0-portrait.jpg",Lego Dc Batman: Family Matters 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EuYGnEI8LXnKQWYy84MNfw","kid":"uNQ+Obe+WxSZEnGra8COrQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3a86d048943f7505cba_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035725X0-portrait.jpg",Weathering With You 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LJsWZwe6s76BT6oVmg+xSQ","kid":"uju6pV+1zCfo/lV/QB8jKg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbbe8bd940521074c2af20_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038580X0-portrait.jpg",The Lord Of The Rings: Return Of The King: Extended Edition 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ib2QZL3gOWQZtyC3Mjrwvw","kid":"U+VpMZDdy1IAAlRZhorAVA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342eeadd940521074b74dcc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023948X0-portrait.jpg",Sermon On The Mount 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gRdEdVSpRQJ7xJycbDfkIQ","kid":"b8pO2NlCVta0qJr3CWHjRw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fb5f9036d048943f76a2334_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038088X0-portrait.jpg",The Lord Of The Rings: The Two Towers: Extended Edition 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/5r9UYHkRB7mJJiFZ0eTcg","kid":"Ebvdb7xjfyo1Rp40jvcXjQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d792d940521074b74b76_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kfEKwVuRoef9XiJpD0BQhg","kid":"U08nIum5WcO1RinbbU/b2Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023990X0-portrait.jpg",True Justice: Bryan Stevenson'S Fight For Equality 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ULkaiIWVgg/KwgBEorwZRw","kid":"6bqKTByVXPK6qEjl0CH2PA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f68c46d048943f760ad1a_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-portrait.jpg",The Lord Of The Rings: The Fellowship Of The Ring: Extended Edition 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yP7R6nMguBYDhtmg+JSNlA","kid":"7/+K/9MKlCglpR16LmLA2w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d5ffd940521074b74b4d_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022751X0-portrait.jpg",Ice On Fire 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bOO5vr2n6CpzjWtEmttz7A","kid":"Jrm2FktsVwet8r7RbA0p2Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e552ecbea8a6a4eef6724_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023005X0-portrait.jpg",Deadwood: The Movie 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4v0GvY5trleFrSRKj/4n/w","kid":"1ydmjAifU9SKK26s6VYaNw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d88a265717da66b07320304_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023873X0-portrait.jpg",Running With Beto 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HkLdePsjPAI4Xypg1JJ04g","kid":"FXtMsTM6VR2m5HWncB5Nxg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f22aebf6d048943f75c7261_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022860X0-portrait.jpg",Game Of Thrones: The Last Watch 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wNo8av/oWEE0LX/XsKTEAQ","kid":"C2hoHdnzX3+n4pWm5l4UCA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d6c81b7bbaf7a3a4767bbc4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035727X0-portrait.jpg",Sadako 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bR6+iiRFVN0kb+Amz+jSUw","kid":"exfgqr5Us4PvDzes3TiK0g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648fe780d940521074d6992f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023874X1-portrait.jpg",What'S My Name: Muhammad Ali (Part 1) 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M9wmyMV82MFZ4k+bziSt1A","kid":"134DJNgxUBSQQVIIP28XRw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5efc47cc6d048943f758cc67_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023875X0-portrait.jpg",What’S My Name: Muhammad Ali (Part 2) 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"31OSfIyyH+f2kdIa04TQHg","kid":"UwAFV9xTVNWAaIL5fhiSOw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5efd3d926d048943f758e3b3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023872X0-portrait.jpg",My Dad Wrote A Porno 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LrpPRSK8NoYAdijcACKOUQ","kid":"iyod+S9pXPiNvbUIy2SI5A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5efb34816d048943f758b221_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022859X0-portrait.jpg",At The Heart Of Gold: Inside The Usa Gymnastics Scandal 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YpJwIYEZZsl+WO6XPpnM5A","kid":"alpuhFieWhOM+fYxzwFl5A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8f8429cbea8a6a4eef8503_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023411X0-portrait.jpg",The Curse Of La Llorona 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rYmDwWwp6SWhOBgEx+jbFw","kid":"GBtX0TgsV56hbbRS4+TAiQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3a7dc4cbea8a6a4effc738_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022752X0-portrait.jpg",Native Son 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B6jNsJn2NheP40d0UW48eQ","kid":"33u3flwqXwe0gV8fc4OvBg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ed670cbea8a6a4eef73d3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023363X0-portrait.jpg",Shazam! 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YXGzb+gzh82OyGlVH3qFQg","kid":"NA2Q2+qOUxqYXkflgFLgSw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022750X0-portrait.jpg",The Inventor: Out For Blood In Silicon Valley 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Hf8upw/CjWy3rqipyjjwQ","kid":"E6a+LkbJUTKTyCgLGxqufg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d88abae717da66b073203e7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023614X0-portrait.jpg",It'S A Hard Truth, Ain'T It 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Muar8mgZwsg4m9WkNPFulw","kid":"cXwEmT/hXtSs2A0G7lP2TA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb14e336d048943f751aa15_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022540X0-portrait.jpg",O.G. 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pRu59POaVEq8GbAlKc8xeg","kid":"r6DMnJs8VCCyMJHXNMtNCw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e9abbcbea8a6a4eef6dee_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023323X0-portrait.jpg",The Lego Movie 2: The Second Part 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yAAz4MjB4iadzBiL3qkb6Q","kid":"nCKSMQl+Ut6xWqN98d+fKA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9b9dfcbea8a6a4ef2029b_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035646X0-portrait.jpg",City Hunter: Shinjuku Private Eyes 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/S4lOHmP02E7D6Az+v2siQ","kid":"44irct0xtcOJDrVLV1PHlA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/649049fcd940521074d6a2af_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023622X0-portrait.jpg",Song Of Parkland 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xiXEaZPdczvK+h6Cdm1eUQ","kid":"f/s4bdrhWwCieRmXb8OzbQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e829e1c3a736626cecceef6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023415X0-portrait.jpg",Scooby-Doo! And The Curse Of The 13Th Ghost 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J+up5e+78Omt72YuRcyfCQ","kid":"uYsJe0Z+WKKX79FQYo5Weg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/616c25379a11bf7ccbf54155_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023547X0-portrait.jpg",Amanda Seales: I Be Knowin' 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IpTg1kC9bPOybFftKYN0RA","kid":"58n7WNPPX+y/Wiv/MwHweA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e58efea3a736626cec8fafa_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035648X0-portrait.jpg",Extreme Job 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"isu56S3ZFF+OFYLtCX36GQ","kid":"D2rScZ7HOt2KdXH1E6OkBw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/649eaeb5d940521074d7f9d7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023546X0-portrait.jpg",The Truth About Killer Robots 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bpXYUNfPR1m+tjdWMNqAIg","kid":"45Zp33mvUWq1SISfrQ8YTw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3cd382cbea8a6a4e000046_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034824X0-portrait.jpg",No Mercy 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pXdxLCMKbWgSfTaVj33Z9A","kid":"2IDaF0EBfOV1ldm5OZLQiQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64d2ef1cd940521074dce001_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023075X0-portrait.jpg",Aquaman 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pIRju2ABeKm/+zZ/gwDGZg","kid":"Fo+R69SEV5aRRsmYFUxn9Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022447X0-portrait.jpg",The World Behind The Teenage Psychic 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vN68+QFvtLikAGulCik8cg","kid":"/xrX5OfeUb2eiioPfh7wZQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ec985cbea8a6a4eef728c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023465X0-portrait.jpg",Pete Holmes: Dirty Clean 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Iu8LjMxGci1Moeggibm78w","kid":"ieUIZij+WA6kkTt/FjPN7A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3c2b37cbea8a6a4effeffa_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023104X0-portrait.jpg",The Mule 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n15eqv8xATapV/e1lWQNsQ","kid":"eKU1JFQKVpmxKgxfL6WK7g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d905050cbea8a6a4eef9919_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023464X0-portrait.jpg",Icebox 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V5SEedkSVp6jAdHTDNsE/A","kid":"ejJCQ+BVWEeEIXIOqRvN6Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3c2a4bcbea8a6a4effefe2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023621X0-portrait.jpg",United Skates 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fiOOoP891fb07Al7fMq9lQ","kid":"K5SqGWTvWd2l/xuEqx2qWg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebc4c0a6d048943f752b71c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021807X0-portrait.jpg",24/7 The Match: Tiger Vs. Phil 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1/dKR0j9nzgEc/Y+rcexyg","kid":"Td+J3CODVAiTtCnWpAUKLA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8edab1cbea8a6a4eef7441_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020063X0-portrait.jpg",State Of Play: First Ladies 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kc1DEBRnjNwqzuqMTWEE4A","kid":"2Vf0wGEDXTSbvwgjt08pxw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e3208be7189575a8d1725_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023076X0-portrait.jpg",Fantastic Beasts: The Crimes Of Grindelwald 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XjRkC2CKOiYq1w58AhdMqg","kid":"E+WneZPBWEqlN5KmCQ0TCA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9052e6cbea8a6a4eef995a_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023548X0-portrait.jpg",Breslin And Hamill: Deadline Artists 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ngw1p3c/rNNrpwGTeUpWjg","kid":"j2Wm30UwVaiitCO8wjUosw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e862a293a736626cecd812f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023545X0-portrait.jpg",The Emperor'S Newest Clothes 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WPo97YLhxI53wNYdqnTy9w","kid":"zjNCHsjdVE2hg8AIL4oAPw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605aa6576d048943f7794e98_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023467X0-portrait.jpg",Say Her Name: The Life And Death Of Sandra Bland 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o25mhqgVUgPffokj4u9xLw","kid":"+DJ4CtmVUlKs4WnobFLcRg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e58f8ce3a736626cec8fbd7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023423X0-portrait.jpg",We Are Not Done Yet 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KyR6udLBGtyR7Os68EpbJA","kid":"FImNIJGqVFe//6qhgzs5xg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3c29f0cbea8a6a4effefd6_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023357X0-portrait.jpg",Outside The Bubble: On The Road With Alexandra Pelosi 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SQVVzaUXKbKB/MKigYLCpQ","kid":"25hZ42shXX28erje9BLHSA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e179e85cbea8a6a4efc78f5_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023421X0-portrait.jpg",Stolen Daughters: Kidnapped By Boko Haram 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v0b73EvHV5aYd2OXJZTv5g","kid":"l4w3ayGQVR6hkbHp1Eu/wA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e5db9ae3a736626cec96f37_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021546X0-portrait.jpg",Flight Of The Conchords: Live In London 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cW+jbrEI+YVp3JK7+ozqrQ","kid":"NylKA/M3WRGkGFrfMNuTcA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d776fd83ae366782ad8da40_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022895X0-portrait.jpg",A Star Is Born 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AXtIe2n35STScCaNUsQeKg","kid":"mQjuPsrZWN2n4r9DwpNP/Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d688198a7beea6fa07806ee_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022896X0-portrait.jpg",Smallfoot 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QafSUti8+fbr0+bNWIgGNw","kid":"mn6cYU2jUg6NbmrwdecVkA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7759773ae366782ad8d7b3_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021489X0-portrait.jpg",Jane Fonda In Five Acts 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8Rmdb9iKZGGVEKuw0I9NBg","kid":"hDzhgtqRV22pzPpg9Yv29Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d88a90a717da66b073203a7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030843X0-portrait.jpg",Scooby-Doo And The Gourmet Ghost 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dhdGcqEvLrUb2WfCxGjpfA","kid":"/Ejf6dR2Vn+bURkK41GAsQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/608646236d048943f77d5247_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023331X0-portrait.jpg",Swiped: Hooking Up In The Digital Age 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SAZdXhOIWiu+IlZDfbmcyg","kid":"SWtMI7F5UEma8uwsR/rATA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e17e0e4cbea8a6a4efc7f8f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022869X0-portrait.jpg",The Nun 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Oytq9FA35fZ7erP0g7YEvA","kid":"EolxIoTHXGS+f26b2BT4HA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8f208fcbea8a6a4eef7b27_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035719X0-portrait.jpg",I Want To Eat Your Pancreas 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oDOpbaAMqaGpu6Is6Mnh2A","kid":"1hQJOC11dMhAS6VDbSKiRg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64827d42d940521074d554b7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023287X0-portrait.jpg",Drew Michael 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+ztCwOGf4iSlRyVijU/K7w","kid":"5BtpFdNEUoy0sBnZVHxzKQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9de44fcbea8a6a4ef0e2bc_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035721X0-portrait.jpg",Killing For The Prosecution 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Hv3U2mC5C5fMoKi2wGi2xQ","kid":"LMyHJDiusoACm4iAvoRAbA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482890cd940521074d555da_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/031225X0-portrait.jpg",Khun Pan 2 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CelTHEZ3j37KiIw8ZxxB9w","kid":"kBl1Y+mIX1u9ESJLTAq6bQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae218b8caa5a5e0b115513_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022759X0-portrait.jpg",Crazy Rich Asians 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BPa1ZKxvgImaPjL+Xc7FEw","kid":"Q9hhI7GbUWiOPa1wO214lA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7f3a7a3ae366782ad99b4a_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022781X0-portrait.jpg",The Meg 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"23hk+WeR8J2JP79MQJ9yAw","kid":"lAtRhk9KXmaH/oJEKikljA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e57e0cbea8a6a4eef676b_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035722X0-portrait.jpg",One Cut Of The Dead 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"T+X2dpS8ax7Rdal1Z7iehg","kid":"qQBZBKQt/zWMPw+0EATh6g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64828e30d940521074d55663_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030362X0-portrait.jpg",Lego Dc Comics Super Heroes: Aquaman - Rage Of Atlantis 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0GQcMkR2YwC9KcNMs2itrQ","kid":"L1mxtCHyWo26l892+tVPkQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606e58e26d048943f77b1df4_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026717X0-portrait.jpg",Adventure Time: Minecraft Special: Diamonds And Lemons 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p6G0ETSXrxhDTwLQP5XklA","kid":"mwvdy9LsWu+31xjauCK40w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6030401b6d048943f775648b_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029787X0-portrait.jpg",Chill Out, Scooby-Doo! 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zAmtT3+e2Za0lLp+9P6tsA","kid":"EB6sNTRSUvCzN12ZiE9IKA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/603f0ff36d048943f776bf88_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021474X0-portrait.jpg",Robin Williams: Come Inside My Mind 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DR6YsfW0iNLERwjDsfBBnQ","kid":"l6YxqmZlWz6/bL/zbg+Ncg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e4880cbea8a6a4eef65e3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023237X0-portrait.jpg",Bill Maher: Live From Oklahoma 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BeYdfJ8MO+RGtQpz/iTibA","kid":"cYPAAsGpXcW1th+ptJZhlg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d774c063ae366782ad8d653_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022439X0-portrait.jpg",Jurassic World:  Fallen Kingdom 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"89E5vTKAptvvetzYNINg4w","kid":"WKeotI+TXdm+mkV2dQ02kQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d805be33ae366782ad9b79d_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023288X0-portrait.jpg",It Will Be Chaos 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AyjZgLbYO4+N4I/2pgSd3w","kid":"ybQR0RJUX7C0evQHs/pecw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dcbdb29cbea8a6a4ef5461c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022552X0-portrait.jpg",Tag 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nI7aCPwTv5KzaqGURPpPog","kid":"qwt2hwPvXjm86VGWesURyQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ebae2cbea8a6a4eef7116_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022551X0-portrait.jpg",Ocean'S Eight 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UG8l/Ydtu2xnln9d0Xn9rw","kid":"B2yghUQsWLa/aj4sRkhzbw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ed4b8cbea8a6a4eef73a8_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023871X0-portrait.jpg",Foster 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7xU0yf3ie9NO/d7OusFHmg","kid":"bzNC5XWRVFOn8cnqJV7GRQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5efb2b816d048943f758b144_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023055X0-portrait.jpg",John Mccain: For Whom The Bell Tolls 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lAIWRjshtovI+YJZpGK41A","kid":"eove8fhLVoq9jqb5vflS1Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d67b684a7beea6fa077f44c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021357X0-portrait.jpg",The Tale 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7hZ1BnZ5TnipGMH/Gd/R7w","kid":"vd/UvrcVXeakDN/4f5SsPw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e9a2ecbea8a6a4eef6ddb_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021356X0-portrait.jpg",Fahrenheit 451 (2018) 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cbvSx7T/oMaqkpTq+7nDrQ","kid":"xrfzKxn4UsClnGR1AnD4pg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e8c3dcbea8a6a4eef6c7b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023043X0-portrait.jpg",A Dangerous Son 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ymYF3G6Bg7pYIgisYLAobw","kid":"iGZykkS0XPqRvTaNjSen5g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc297c5cbea8a6a4ef4619a_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021317X0-portrait.jpg",Paterno 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"78F6I4JuUCUhP94JSi0mvw","kid":"K88BVF6AXZCP+YYWQ+0LLw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dc6bfcbea8a6a4eef5928_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022873X0-portrait.jpg",King In The Wilderness 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lFqdVsJMT3XE17y+Pabu2g","kid":"Q5B1eiY5UlCp2pao3xefOw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dea7a94cbea8a6a4ef82ed2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021351X0-portrait.jpg",The Zen Diaries Of Garry Shandling Part One 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U4IdEy97D6bpxUi3lly6EQ","kid":"ViMMegCcXrO87uPkpJbdJQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8f01c4cbea8a6a4eef781a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021352X0-portrait.jpg",The Zen Diaries Of Garry Shandling Part Two 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kGVIVOqz1gjdLdjwnnKBQQ","kid":"BX6IFWaxXZGXaumeE9YmkA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e696acbea8a6a4eef6926_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023719X0-portrait.jpg",Tomb Raider 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xNbhGjXLSj0y1hy+HjtfSQ","kid":"d4VpnwUAXFWgMHf+q4CNKg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ed0f3b86d048943f754adc9_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021189X0-portrait.jpg",Notes From The Field 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yxQu7/Tc+5JKVLZCixWCgw","kid":"rbdZaLoeWcCyNUyfItBbwg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8df1becbea8a6a4eef5d65_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021509X0-portrait.jpg",Fifty Shades Freed 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oArl1gqO3JpK2fUUWoNrsw","kid":"IJw6pydCWxu5N3QkDQODBQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d80e463478edf47921f4a60_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022667X0-portrait.jpg",The Number On Great-Grandpa'S Arm 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6iMgU9J4Qfgx0CeBsV9/xg","kid":"DzJrkMJzVSmh3lJ5Tck8ow"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ed34acbea8a6a4eef7384_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030616X0-portrait.jpg",Scooby-Doo! & Batman: The Brave And The Bold 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y7/JzopvEW7LJcDeFh0iCg","kid":"reKulbGwXB+0QGYLNoX+sw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/608689d86d048943f77d5881_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022544X0-portrait.jpg",Classical Baby: The Lullaby Show 2 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"InHkxyW+y/hesTWv+mFqgA","kid":"wpUiDq2uVGm1BeU/ArcQwQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e8186cbea8a6a4eef6b70_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022543X0-portrait.jpg",Classical Baby: The Lullaby Show 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FeX0M3Ip6/nKaXJO0BON2g","kid":"rb4fkwa+Uyy4ZORM/nHZ6g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ec468cbea8a6a4eef7209_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022164X0-portrait.jpg",Pitch Perfect 3 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ny9tpDiOWi+s1ZU+atUEwQ","kid":"apqlF+ZqV3uAaXl4uRngWQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fd5013ae366782ad9aad0_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022553X0-portrait.jpg",Agnelli 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n00qe6yi93jKcph3UmyfVQ","kid":"yOhmI0gFVXiDGpS6LnO0qw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d5f5ae5ff032c01a61e7d2e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022537X0-portrait.jpg",Happening: A Clean Energy Revolution 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k7dsbOD7e4BpmLrIzFSMWg","kid":"WFX1YWchW3O0LzU1VqxWiQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8eb3ffcbea8a6a4eef7065_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023187X0-portrait.jpg",Arthur Miller: Writer 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SSnMARv11rnqCCn5UcUmfg","kid":"CVxq01aSVfKmI8WoVBMQmA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dceb278cbea8a6a4ef58b28_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022872X0-portrait.jpg",I Am Evidence 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FDu15Dl1uwbtNLSLSR2qhA","kid":"JXuKKZnWV/2wZ4D3HyrYxg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dee7cadcbea8a6a4ef890a8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022542X0-portrait.jpg",Meth Storm 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OBWTRLs7/hH3R+rHnRXN0Q","kid":"ZOBDqQudUrmn+SNLhZF2SQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ec2cacbea8a6a4eef71df_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022536X0-portrait.jpg",The Newspaperman: The Life And Times Of Ben Bradlee 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LZuDbHA1ocC+RAM3Y6V7TA","kid":"ZeMe4qzHUi+MHjlIMJlPgA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9e0336cbea8a6a4ef0e5d2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022747X0-portrait.jpg",Michelle Wolf: Nice Lady 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JCK3CIYuhylnoA31mPBxqA","kid":"YoOVqNjNUA+vQn3yFYe17g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e928bcbea8a6a4eef6d1c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022535X0-portrait.jpg",Baltimore Rising 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JoWEU/ZH+YhHNcoIRw9AQA","kid":"PDOuYWz1VuuIfrGCIVDUQg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ad0836bb2ef262afd24ba_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021415X0-portrait.jpg",Justice League 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vHS7+0CRB5XlnMOHq/tFCA","kid":"1gmofy2CUD2T75/ywGWfag"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d849e73d9bf810a0bbcd4a0_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022666X0-portrait.jpg",Atomic Homefront 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1tcccZqsyXOkshb/SKFrjA","kid":"L2N/Er3EVnaj902QPEFNow"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8eac63cbea8a6a4eef6fa3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021320X0-portrait.jpg",Traffic Stop 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qb0PhjN3ZSL7oNZmrLxNNA","kid":"kTOMqou1WJ6Dp7Qk1S1aDQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dcb40cbea8a6a4eef599c_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022534X0-portrait.jpg",War Dog: A Soldier'S Best Friend 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vt8y+/8powjZVUYR190rwQ","kid":"UenHnTsLWyq7VsZa6gOY6g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e5f49cbea8a6a4eef6823_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020920X0-portrait.jpg",Totem (2017) 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e11MtFEuFIKCGa2igMk/6g","kid":"zk+E2RGZVCqr5t0aIjryJQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8de270cbea8a6a4eef5be6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020921X0-portrait.jpg",Like.Share.Follow 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KgOgaJAPpT6ljEOCfNAAPQ","kid":"GSz4GkBYXMGXMB8QgtqwRg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8d9dc0cbea8a6a4eef551d_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035645X0-portrait.jpg",Free!-Take Your Marks- 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k4gBkYzikAC4wgxgkRn5hA","kid":"NPGbebJFGu5hqsbNkdSdjQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64827bafd940521074d55489_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021389X0-portrait.jpg",Happy Death Day 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jk9u1vCdXO0I1umLY4R1ng","kid":"b9v14PQeVjOR9sgjTovvgg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d80b8ed6ca45c43bbd80e5c_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020811X0-portrait.jpg",Spielberg 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6vbO+pL8KGcwUOym0G9FaA","kid":"ZFFoLJDsUeuSo+WeSXFlJA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dcf23cbea8a6a4eef5a03_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021309X0-portrait.jpg",American Made 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KYiOdWszqknujzfOACTHDw","kid":"FjKBbVJuXDqZRuCMGYmNxA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63806cb1d940521074bd1853_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021340X0-portrait.jpg",Annabelle: Creation 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o/KxnDxumhFgbb1aqAavrg","kid":"mOLGZX+lUn6kJgNn+p7Ttg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e2a72cbea8a6a4eef62fc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022312X0-portrait.jpg",George Lopez The Wall: Live! From Washington D.C. 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cgFLXw401jyI5qiIHCoy6Q","kid":"z2ssW26rWmuI1lC/3iXhHg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e4120cbea8a6a4eef6529_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035731X0-portrait.jpg",Tokyo Ghoul 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uWhq4VygA7/yWP0a9X3Tiw","kid":"INbU/0IVs/Va+nT6wAknUw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64829c02d940521074d557c3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021291X0-portrait.jpg",Lego Scooby-Doo! Blowout Beach Bash 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O+3kCmgkWRJcLEYngsPC2g","kid":"LDH7bwsQWY6Dwz2v4neN7Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dfc73cbea8a6a4eef5e6a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021345X0-portrait.jpg",Dunkirk 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"94oixmmPGXMz19uiVmcVcw","kid":"N7PUoXn3U1iWY3XgATc+lQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/617769e1fbbcc21f45cc0e05_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021339X0-portrait.jpg",Tom And Jerry: Willy Wonka & The Chocolate Factory 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2ea4OWJkJufSToUlk9TSwA","kid":"uWBSAOA4V5ip3dapIUIIDw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d90492fcbea8a6a4eef9865_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020623X0-portrait.jpg",Tour De Pharmacy 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RvAMV04jK30jo/WcqhEM+w","kid":"7PdBpE0tWUCz9oRBkhCppg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8db047cbea8a6a4eef56f3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022294X0-portrait.jpg",The Words That Built America 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zUOvFr9qZPH6//LLEflU3A","kid":"XrqBRbawVVyyNqJfXSmktg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e834ccbea8a6a4eef6b9d_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035728X0-portrait.jpg",Free!-Timeless Medley- The Promise 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ibdIWDi3Pxe9eYjVCQRGAw","kid":"o18E6iU928dLdrd8S4wNKA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64829776d940521074d5574c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020839X0-portrait.jpg",Transformers: The Last Knight 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YsdZW/iqwiqGh1moqQnK8w","kid":"yOZ0FzlDVkW5w3Ufr7HY6Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c5c42f88e44305724857458_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021478X0-portrait.jpg",T.J. Miller: Meticulously Ridiculous 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"moN3lvBR1Dn4JQr+82uefA","kid":"6GIACCNNXYGqWYZpo3km2w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ecde4cbea8a6a4eef72fb_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021161X0-portrait.jpg",Wonder Woman 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7NjTcW7SqNkqdeIcf9T4fg","kid":"E513goRuXiCb7SfBfr7QSQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fca2a096d048943f76bfd96_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020475X0-portrait.jpg",The Wizard Of Lies 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8XSbGQ3LhPm4oL01yHkSqg","kid":"LGmvkSoTUnGFCTDoC6ShaQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e2368cbea8a6a4eef6244_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021244X0-portrait.jpg",King Arthur: Legend Of The Sword 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Dbm2onFQ1AhiJXQAJKf1A","kid":"uN+x7febV/Se3+cqW0OZvw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342457dd940521074b73c60_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021359X0-portrait.jpg",Warning: This Drug May Kill You 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+ltA6uoGZ0cIZNlrGiXz6w","kid":"qgdPJ4RSVCKU/MTSvpxBPg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8eb2f7cbea8a6a4eef704a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021455X0-portrait.jpg",Chris Gethard: Career Suicide 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AQdYfjhqVqv6AOsdOjZpEg","kid":"I4aDitloVU6kXT/kvSwqow"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ee9bdcbea8a6a4eef75ba_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020458X0-portrait.jpg",The Immortal Life Of Henrietta Lacks 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NX77M8DuSSLQSMIrxMjKCw","kid":"ZeUWtMSiVtaoFxQfG+Wk0A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7f241cbe7189575a8d2dde_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020474X0-portrait.jpg",Saving My Tomorrow: Kids Who Love The Earth 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tPLAGjBiApZ0pdyFP8EZDw","kid":"nzfTe3LaWracB5cpGUBOZA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7f28adbe7189575a8d2e61_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035649X0-portrait.jpg",Free!-Timeless Medley- The Bond 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KeLogbc0ihypqrtnz1XL3g","kid":"mF0NNvkJrfHmiBuHsfz/gA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64827bdcd940521074d55491_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020901X0-portrait.jpg",The Fate Of The Furious 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JnAxYp/4P9FcB1JtHFk+pQ","kid":"YDwqPNV0XCKnqFBKx9eAIg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bda40d940521074bb2826_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020666X0-portrait.jpg",Ghost In The Shell 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OfCXQLOswTcarJVfbibTrQ","kid":"1DjEAY5eJz+h2tgnyasn/A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6407e70ed940521074c9dab0_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021346X0-portrait.jpg",Rock And A Hard Place 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MPgOes6gVzrsp3sl1M4gjw","kid":"sX4W1dFiXh+XX3qzLHsrLw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8de5d7cbea8a6a4eef5c43_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034809X0-portrait.jpg",The Prison 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CNVl6/LHi8H5Kr5m0IrIBg","kid":"Wcjv/bOjhX9RX8rEHwoSqw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cb9c4dd940521074dc3024_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021347X0-portrait.jpg",Jerrod Carmichael: 8 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XdqEzk1ldNZ6PC0SuCeIrw","kid":"e0szPmWbVSi6ubpPFTehBA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8da56ccbea8a6a4eef55e1_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021456X0-portrait.jpg",Mommy Dead And Dearest 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XnPnZSDEHe5cRe/PYmTgKg","kid":"Pq211xeSXUqukD6CDcGZag"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e888acbea8a6a4eef6c20_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021194X0-portrait.jpg",The Jetsons & Wwe: Robo-Wrestlemania 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pkbnBgryAPMY9UjRs99tEw","kid":"fIVJ7RTtVua5bKsBv8IIOA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60800a776d048943f77cbebe_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021149X0-portrait.jpg",Get Out 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ppOPDmcIE/LayKBexgQEvw","kid":"eR0T/apdXnyCUnnoPRDXkw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c648f428e44305724864153_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021196X0-portrait.jpg",Scooby-Doo! Shaggy'S Showdown 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hKtriXXiGFvMb3wHIxMbKw","kid":"eECcOSpcVHq3wBP6kZYEtg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6082a8fd6d048943f77cfc76_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020859X0-portrait.jpg",The Lego Batman Movie 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Wm9lBF/ixhGNnMnyM5KiHg","kid":"bGueh7gvVRi8cNkl4GudZw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60adb76e8caa5a5e0b114ae6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020731X0-portrait.jpg",Fifty Shades Darker 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2owLxINg1grtCPbJ29lSbg","kid":"URxPTkEqayhkkUNAaDFucQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb9a70d940521074c2ab91_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020525X0-portrait.jpg",Rings 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PSc9PW+VFwAH3YWMuDwThA","kid":"qGmtMhpwzwKtVJtkBu7Gmw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb00dcd940521074e0a25d_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020521X0-portrait.jpg",Becoming Warren Buffett 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PxCJU6eU9jg5JYfbiOKeJA","kid":"cxSCDP4xWx+9CLTJWBcHIg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8de419cbea8a6a4eef5c12_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035013X0-portrait.jpg",52Hz, I Love You 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+uDowvUWl2CHpBjOLRSRw","kid":"9AghUwERxTvdcvtfBDFk0Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb9aadd940521074c2ab9b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020733X0-portrait.jpg",Split 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sQM4ZX1eVrjh1FU79wh/9g","kid":"Pi/LXOo5sdeWHCrp82lmRQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6380a03fd940521074bd1d80_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020779X0-portrait.jpg",Live By Night 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cS6iTlh/CEe09Dyuzrc+eQ","kid":"5O5RfubbfkpJ3XeZBlYuFA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb8b3cd940521074c2aa10_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020311X0-portrait.jpg",Bright Lights 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I8WaxbZdoIaOnQKJY40cNA","kid":"ynX7ATgSXEa2hjW7L76w5Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e36f5be7189575a8d17b1_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020660X0-portrait.jpg",Every Brilliant Thing 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I3SqVTmUpDKEvocFlMXZMA","kid":"ZYEDVKz/XqCtLwHtfe68YQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dfe9ccbea8a6a4eef5ea0_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020503X0-portrait.jpg",Fences 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8kIMxEJWwHVhfdzij5OQPA","kid":"nJ6H1KVagJvBcJXeHZOZbA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63425017d940521074b73d87_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034808X0-portrait.jpg",200 Pounds Beauty 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9McOvs4tpH7IP2zKt2hxNQ","kid":"Iz5nbP9bxNVH2OP92etY5w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbbe35d940521074c2af10_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020675X0-portrait.jpg",Risky Drinking 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+xToOhtXG8ldUj+UIK0eHA","kid":"NrAPAvhNVVWERP/ZMdovTA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8de10dcbea8a6a4eef5bc3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021190X0-portrait.jpg",Pete Holmes: Faces And Sounds 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uCGlIXCTW4hRBREGrMU/bQ","kid":"WvE4egOEVY6yF2ktrhITcw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8d985bcbea8a6a4eef5493_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020662X0-portrait.jpg",Fantastic Beasts And Where To Find Them 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"818rDUWSoftLcGimESi32g","kid":"rhqRz1Guk9u6Q51kzADh/A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62283b92d9405210749cb84c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030019X0-portrait.jpg",Mixels: Nixel Nixel Go Away 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7HAkU4xRjEhq3mK5d7CBZg","kid":"HE7VaN1oXgeWY3TemgRyRA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6041fca36d048943f777075f_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020674X0-portrait.jpg",Habla Y Vota 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fSedT5huS6rTWHJmckpQDA","kid":"wokiae5aW1SRdx5rPP28lQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8db279cbea8a6a4eef572c_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032234X0-portrait.jpg",Batman Unlimited: Mechs Vs. Mutants 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mAer594/QVvOHRt1aLGdjQ","kid":"9eVXR6WSUbeDbbAsOPEwdg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61138b582bd0bb5cd89e055e_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020383X0-portrait.jpg",Maximum Ride 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EcI4A/WcLtl6Zw6zCvYetg","kid":"keI+mWHlHKVpozlceY3HgQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63173d56d940521074b33516_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021349X0-portrait.jpg",Abortion: Stories Women Tell 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nOikuZY4PEt/cBKXc1EciA","kid":"fbrRD3INWyuTqjZrfpTj8w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8efd09cbea8a6a4eef779d_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020536X0-portrait.jpg",Scooby-Doo! And Wwe: Curse Of The Speed Demon 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rjfNMu5bJGAJvpN8MzwAeQ","kid":"3a6uIeejVYOxK+Ddn/rh+Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60800a306d048943f77cbeb5_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020532X0-portrait.jpg",Suicide Squad 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"72st1VVQ8MaAF6zl2+1eWg","kid":"pg5Ju7lyXqCKOXwJaBiSoQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602f2a6b6d048943f7754b2b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020721X0-portrait.jpg",Meet The Donors: Does Money Talk? 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Lqk3twthkSCtK3b43KA89g","kid":"xX6W7eazXi+EsdD9UG48Qg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e2919cbea8a6a4eef62da_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020305X0-portrait.jpg",Jason Bourne 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fw5gVJOwM9I8HYiG3Xiufw","kid":"SO0s1Hd2dheuUCSpy0QWkw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bcb5fd940521074bb26a4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035724X0-portrait.jpg",Shin Godzilla 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n8IhPmefhDq9TXenR+swvQ","kid":"LsQh1x6EGwwpSbeubuZk5w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64d0bac2d940521074dcab60_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020652X0-portrait.jpg",Looking: The Movie 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xz2ADWLo9JNWTFw5kzPmrg","kid":"qYkB2wv1WP+moB+Qd6C06g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dd076cbea8a6a4eef5a25_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020533X0-portrait.jpg",Lights Out 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xKCUj8tyZmqBuRtP0xUewQ","kid":"0nf/lTIoW2aLUK6WvVv4SA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fa4a9566d048943f768882a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020198X0-portrait.jpg",Star Trek Beyond 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eG/Qdeed/vRExIc/NNwArA","kid":"6+Y39lYTSsuKReMy/iBcWA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6317511bd940521074b33720_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037501X0-portrait.jpg",Train To Busan 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8x+IW996rmN4v/DrjEBN5A","kid":"5uiXlIEYvxjEKG/qF+m28w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb42ed940521074dc3286_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040199X0-portrait.jpg",Lego Dc Comics Superheroes:Justice League - Gotham City Breakout 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"klNGwzZQTKFxNBAFIhALVg","kid":"9QLrke4/v3uGP0zMKx3ENQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f35b27d940521074c7e9b0_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020076X0-portrait.jpg",Open Your Eyes 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2hjECYJpQ8+pu4Ey7uBb8Q","kid":"InJmTgFvUgW5aMqufsKqCg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e3268be7189575a8d1730_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020535X0-portrait.jpg",The Legend Of Tarzan 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SrdV1T/gOvaemHcaTvW5RQ","kid":"1UJZoup+ELwH05xNxjWX0A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62282f07d9405210749cb6fc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020382X0-portrait.jpg",The Purge: Election Year 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OrZb4dQ1aaiawIqYEeu3wQ","kid":"T2HURYIgxOPoPxTTpV+kFg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63844a0fd940521074bd75c7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020486X0-portrait.jpg",Tom And Jerry: Back To Oz 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NGEr9gJ+4Dh3G+HfCuzjyg","kid":"aKU5A+plUduzKkkwuhhpDQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6007baeb6d048943f771a73e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022293X0-portrait.jpg",Brillo Box (3¢ Off) 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s60AJqafdQXO7WNrr2o43w","kid":"OpAX2A2WVcmDUlH490pTHw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e9440cbea8a6a4eef6d47_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020534X0-portrait.jpg",The Conjuring 2 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"h8QrTwIwpgVMOYH6/aCzPw","kid":"MjrJCJYQUGWOq647oe2TkA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4f8ab06d048943f760b03a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020144X0-portrait.jpg",Warcraft 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dpIYTcnxTYUr82AIVCjtFw","kid":"z9NfARUf8+MGM1EjeFr1kQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb7748d940521074c2a808_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020118X0-portrait.jpg",Teenage Mutant Ninja Turtles: Out Of The Shadows 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"00p/00X91bPSw9FooHrJiA","kid":"PGqxgex8Ply+ntOo/uglvg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64375cdcd940521074ce4d58_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021160X0-portrait.jpg",Quincy Jones: Burning The Light 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jdzt2BKNpDfHUcWcPxZ79w","kid":"XR29V1U4X8up4llYu36uFQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8da492cbea8a6a4eef55cb_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035726X0-portrait.jpg",Young & Fabulous 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M3rcz+UmM0wN3mQJoKbuNw","kid":"gP9skJP61PeSwfWVeO+K8Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64b618bcd940521074da2958_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019644X0-portrait.jpg",All The Way 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gU8AQAuYvvS24aXwSecWWA","kid":"3WNltWW/VNKlsYzIR3kCjw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c7340be7189575a8cecdc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020549X0-portrait.jpg",Lego Scooby-Doo!: Haunted Hollywood 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"z+YemQW747/9z0ccxrJKPQ","kid":"x//z+lbOVwqukHnsNSJ2rg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc463f86d048943f76b7579_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020098X0-portrait.jpg",The Huntsman: Winter'S War 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QVJ6iE1PF0nt1OLkKC02Qg","kid":"u4lTMrMcB9CIAM1ISKrQQA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63844c27d940521074bd7605_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019511X0-portrait.jpg",Confirmation 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZF/kvzUBhHB52kDVWKMbFQ","kid":"DqkwGeLPVgWtCU63QTWL/w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c1fecbe7189575a8ce4c3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020649X0-portrait.jpg",Class Divide 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Go2HzaPf/w7l1tG8nJK6dQ","kid":"K+j4hHiEUP6RqJGX6AdjZw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8da3cacbea8a6a4eef55b6_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020653X0-portrait.jpg",Nothing Left Unsaid: Gloria Vanderbilt & Anderson Cooper 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sdTkdI6mWHsG6bnp/tXcYg","kid":"CwHUTfRVXc+IIAa6YgTEWA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8da6c8cbea8a6a4eef5604_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022297X0-portrait.jpg",Clinica De Migrantes 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8euti/Dniiz4Cra6seTbSA","kid":"EDhP+WrUWm2ajx+7+lCHMA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d723d1a3ae366782ad85d22_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030447X0-portrait.jpg",Batman V Superman: Dawn Of Justice 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"znj/+HN9BnnHnRlOeQkRBQ","kid":"ANSeEXliWZGMNEBQ/gB6+Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77a0f62_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020665X0-portrait.jpg",Orphans Of Ebola 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NsTXoAmC8WkSOGBIs/60Qg","kid":"8N+DsNhLUBqsDStg6tTPDw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8d9d70cbea8a6a4eef5512_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020659X0-portrait.jpg",Beware The Slenderman 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RePhE9XrH1IcDJ3C7gvheQ","kid":"vhOAKnD/WmOSDREwSx0UvQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e279ecbea8a6a4eef62b0_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020068X0-portrait.jpg",10 Cloverfield Lane 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tAyzljI1CjEgMtNjjfvUdA","kid":"9e4RfbLwH3oO/BbMG47cWA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cb9a63d940521074dc2fea_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040198X0-portrait.jpg",Lego Dc Comics Super Heroes: Justice League: Cosmic Clash 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hhiRVKyKL8w388Ab9BmNnQ","kid":"IQsW5AoA7UmAaLARdmSqIQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f35b07d940521074c7e9a9_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020648X0-portrait.jpg",Becoming Mike Nichols 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YhWb5FDm219lwXqklZvRCA","kid":"zvI2dWHjWRi579rHivDAmw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8d9b99cbea8a6a4eef54e4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020473X0-portrait.jpg",Saving My Tomorrow Part 5 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7WA+r2LMXRq0ApovcmwnPg","kid":"mB78VCkDVAGKG0NZTakeNQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7f2853be7189575a8d2e57_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020650X0-portrait.jpg",Homegrown: The Counter-Terror Dilemma 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"harlSYXR0m6t8cr/GdZn6w","kid":"7CZM50rzUhWnXxk+cH587w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e0f37cbea8a6a4eef604a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038454X0-portrait.jpg",Kung Fu Panda 3 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lv5sJymXIp8hs4EgTj893g","kid":"6WYZodkTDkE6iEx2ke3O8g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbc0d2d940521074c2af68_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020655X0-portrait.jpg",Suited 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E2ar2vYyXZdJwldYKaehBA","kid":"8+g5grDVVLGh65MZykMyVA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e173ccbea8a6a4eef611a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020678X0-portrait.jpg",Whitney Cummings: I'M Your Girlfriend 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o98z2E2Uqt5e+JdA431lFQ","kid":"tLmFGWf9US+gYtpvPZRzJQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8d949dcbea8a6a4eef5435_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021251X0-portrait.jpg",Alvin And The Chipmunks: The Road Chip 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Zz0ok2TH/RlkztBfgfOt1A","kid":"ipfwmjfnXmeNRCoom2jzCQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac637c6d048943f769406a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019897X0-portrait.jpg",Sisters 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNAvidTdFF1UP2iV4g1z/Q","kid":"llwy2N/fjGUkHZ5iVAEbdQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6513ccc1d940521074e2f621_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020725X0-portrait.jpg",Heroin: Cape Cod, Usa 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zw5PklzpmQ//p5q5BYHxag","kid":"BNli63TOXtmVs0I4gAHK4g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e02a7cbea8a6a4eef5f0c_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020656X0-portrait.jpg",Kareem:  Minority Of One 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pGLNk1iU1imY9+E97cpVew","kid":"NjYnaqbaXXmEEnjOfHeTlA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8da81bcbea8a6a4eef5626_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018921X0-portrait.jpg",The Leisure Class 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"de8TxKwR4GTqGhx9NaqDvg","kid":"7+KU/3itUbaWxvPH9aX7ew"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7befe1be7189575a8cdf97_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019630X0-portrait.jpg",A Girl In The River: The Price Of Forgiveness 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M3+UC6ou7aWfNXZES8dlIA","kid":"xlbhpkBjUTKazDMhhdwmYA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c7226be7189575a8cecbb_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019835X0-portrait.jpg",Steve Jobs 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z/l1/k8Y0XihQ4IA+CjoBw","kid":"ThEJGpGMp4hOjUNHIcJ5fQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63c90151d940521074c3ed3e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019006X0-portrait.jpg",Amy Schumer: Live At The Apollo 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sYahbkYONzi5qabQKZbQUw","kid":"gQolrEJCWiqJncyh1Qungw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c0446be7189575a8ce1bb_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039117X0-portrait.jpg",Shanghai 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2a685Wpk+hvuTJIech42NA","kid":"yYPyjpT7dAurhFIxPSU5lA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca589ad940521074c40e40_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020719X0-portrait.jpg",San Francisco 2.0 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A1Zr+YBzXbPDNqsmNp5qKA","kid":"1NZT4yfFV7mbaIkyQUQWrQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8da27bcbea8a6a4eef5594_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018850X0-portrait.jpg",Ferrell Takes The Field 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8KAZ9E/SHz43uEBH7PqzKw","kid":"bLtRkJodUI6KciMC7PQ2jQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7a8a03be7189575a8cbe96_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019475X0-portrait.jpg",The Visit 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8LvOS1lKCsPkNxO8H0nIwg","kid":"XUzz5xoFhBF/Qr7hPqb9UQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fafa79d940521074e0a1ba_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040197X0-portrait.jpg",Lego Dc Comics Super Heroes: Justice League: Attack Of The Legion Of Doom! 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n//ddtVmSeTcs1+kUnFTGA","kid":"gNJrX8aqN3/TahtfOS0hOQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f35ae7d940521074c7e9a2_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020673X0-portrait.jpg",Tig Notaro: Boyish Girl Interrupted 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YvBGQFpjPYcYS/89j35Qmg","kid":"DEI/HvPeUkOt/b8l/wU0ow"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e0667cbea8a6a4eef5f6b_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032235X0-portrait.jpg",Batman Unlimited: Monster Mayhem 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HWH8QwnKgQzntpBzq1VIeg","kid":"5VrU/K9fUOy4GwJeFkerCw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe2252e59f821aa9e6e632_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026733X0-portrait.jpg",Regular Show: The Movie 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2ppmDYKExD82VCgjQmyw5w","kid":"j3eaOMXrWhCyAeCtyIiv/g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f6e92466d048943f7638bd6_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019839X0-portrait.jpg",The Man From U.N.C.L.E. 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UWswhLUyNoMAdKjatXxZsQ","kid":"LM4xbQwLTgOur20nD1mMoA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62011273d940521074990901_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020687X0-portrait.jpg",Toe Tag Parole: To Live And Die On Yard A 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HHuXNABXW8teebZj0KBN1g","kid":"YT5uGLf7VSiFiJrpI6H53Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dc566cbea8a6a4eef5906_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019147X0-portrait.jpg",Mission: Impossible Rogue Nation 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n/6mYP7P6LeL0G1UN4xMzw","kid":"5AkQlKm4AHPRTRxGMIrjXQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431fd31d940521074cdc94c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019837X0-portrait.jpg",Vacation 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rc6jmfY6lVMujHRoLNpltw","kid":"e/8OHABhUfCzuuFBGbSNEw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e6233973a736626cec9dc09_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/028550X0-portrait.jpg",Scooby-Doo! And Kiss: Rock And Roll Mystery 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zMt0ag8V3FGIk3UgU4O1ug","kid":"qEIgQSH5XLeq7KwPcsWROg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602df36d6d048943f7752ea8_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019345X0-portrait.jpg",Trainwreck 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dNmij0IL4jBJSL5nT5stfA","kid":"tL28n5Xs9UiOfk4uNrescg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63844bfbd940521074bd75fd_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034460X0-portrait.jpg",Between The World And Me 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f2f7j1fa4WKvuMiu1i7N3w","kid":"KGDrUwrxThuQDpH9B88Ejg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61da5e77fbbcc21f45d58b32_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020676X0-portrait.jpg",7 Days In Hell 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"W+ezt+j1qtWYbwudIE8PaQ","kid":"lSCuNGhrUHamIjDAVJDBhA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dbe0bcbea8a6a4eef584c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019474X0-portrait.jpg",Minions 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rJSfIEFV0MKJvn2K6EeJVg","kid":"bE+HWFWBV7CUq+OppWqePg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4a81f8caa5a5e0b11f207_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026730X0-portrait.jpg",Looney Tunes: Rabbit'S Run 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aANriNZcDQ/vWhoV9jhzKw","kid":"lCIFbty2Viicyw3UKcG/xA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f70d4da6d048943f763c0d8_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019799X0-portrait.jpg",Magic Mike Xxl 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"INoEea37VAOjuEaL206IVA","kid":"5ouOZn8MtNFl53Yr5g3qTA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb868ed940521074c2a98c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019460X0-portrait.jpg",Ted 2 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CS1b6qprr5/2ZD68sW59+w","kid":"/7aGP9tgDK0LhBAsOMikkA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cb9a2fd940521074dc2fe1_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026586X0-portrait.jpg",Tom And Jerry: Spy Quest 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cytW4FRjL90BAJ68g4SmDQ","kid":"8mwnM7wIXjKmg/kDodEC3A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5faa31b56d048943f7690a7d_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020711X0-portrait.jpg",Requiem For The Dead: American Spring 2014 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"i10VyyaxTXSPaW44FCne7g","kid":"JrYPHKp2U7iVK4HK4i8OGw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8db49acbea8a6a4eef5762_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019245X0-portrait.jpg",Jurassic World 2015
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ccyrm8A5AUQpdNfQlorT4w","kid":"T+eT+iY0WTuXi6Ti+pzYSQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60bb0bc7f80130448b1c0640_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTM3U billed-msg="😎 🇲🇾🇵🇸 Original Seller : Kuro Digital Shop 🇲🇾🇵🇸 😎"
