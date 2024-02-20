@@ -1,14 +1,15 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AqFad2811&theme=monokai)
 
 # About Me
-### My name is AqFad, and I'm currently using github for these projects :
+My name is AqFad, and I'm currently using github for these projects :
 
-
-
+# List of projects
+## Most popular
 - EPG (https://github.com/AqFad2811/epg)
-  -  A repository that I currently used for EPG's, formerly had a popular playlist here, but I moved it to keep it safe.
+  -  A repository that I currently used for EPG's.
+## Dump/Unused
 - BernamaHDYT (https://github.com/AqFad2811/BernamaHDYT)
-   -  Forked repository from [@benmoose39](https://github.com/benmoose39), using Bernama TV live stream and put it on my playlist.
+   -  Forked repository from [@benmoose39](https://github.com/benmoose39), using Bernama TV live stream and it's only in 1080p.
 - randomlivefromyt (https://github.com/AqFad2811/randomlivefromyt)
    - A random livestream from YouTube, sometimes I use it for my playlist and sometimes for anything else.
 - randomlivefromyt2 (https://github.com/AqFad2811/randomlivefromyt2)
