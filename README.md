@@ -19,19 +19,19 @@
          <img height="30px" src="https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png" />
       </picture>
    </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://bsky.app/profile/aqfad.bsky.social">
+   <a href="https://bsky.app/profile/aqfad.me">
        <picture>
            <source height="30px" media="(prefers-color-scheme: dark)" srcset="https://www.google.com/s2/favicons?sz=64&domain=bsky.app" />
            <img height="30px" src="https://www.google.com/s2/favicons?sz=64&domain=bsky.app" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://instagram.com/aqfad.kunz_">
+   <a href="https://instagram.com/aqfad.me">
        <picture>
            <source height="30px" media="(prefers-color-scheme: dark)" srcset="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" />
            <img height="30px" src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://tiktok.com/@aqfad.kunz_">
+   <a href="https://tiktok.com/@aqfad.me">
        <picture>
            <source height="30px" media="(prefers-color-scheme: dark)" srcset="https://aqfad.me/tiktok-logo-dark.png" />
            <img height="30px" src="https://aqfad.me/tiktok-logo-light.png" />
